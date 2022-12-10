@@ -1,8 +1,16 @@
-# Hola ✋, Mi nombre Félix Gonzalo
+# Hola ✋, Mi nombre es Félix Salgado
+Soy Front-End developer
 
-Soy desarrollador Front-End, cuento con conocimientos en HTML, CSS y JavaScript. También tengo experiencia en frameworks como React y Angular.
+- 🌞 Disfruto de la vida y trato de aprovechar cada momento.
+- 📚 Me encanta aprender cosas nuevas y desafiarme a mí mismo.
+- 😊 Creo en ser positivo y en ver el lado bueno de las cosas.
+- 🌍 Me encanta viajar y conocer nuevos lugares y personas.
+- 🍴 Disfruto de la buena comida, la buena música y la buena compañía.
+- 💪 Soy un apasionado de mi trabajo y me esfuerzo por ser el mejor en lo que hago.
+- 🙏 Creo en ser auténtico y en ser una persona de integridad.
+- 📝 Me gusta compartir mi vida y mis pensamientos con los demás.
+- 🚀 Estoy constantemente buscando maneras de mejorar y crecer como persona.
 
-En mi tiempo libre, me gusta participar en proyectos open source y colaborar con la comunidad de desarrolladores en línea.
 
 ## Habilidades
 
